@@ -1,0 +1,21 @@
+<h1 class="fw-bold">
+    All Products
+</h1>
+
+<table class="table table-striped">
+    <tbody>
+        <tr>
+            <th class="fs-4">Product</th>
+            <th class="fs-4">Price</th>
+            <th class="fs-4">&nbsp;</th>
+        </tr>
+        <tr *ngFor = "let product of products">
+            <td class="py-3">{{product.name}}</td>
+            <td class="py-3">P{{product.price}}</td>
+            <td class="py-3 text-end">
+                <a [routerLink]="['/product-details', product.id]" ><button class="btn btn-primary">View Details</button></a>
+            </td>
+        </tr>
+    </tbody>
+    
+</table>
