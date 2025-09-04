@@ -1,5 +1,18 @@
-<h1 class="fw-bold">{{product.name}}</h1>
-<p><span class="fw-bold">Location</span>: {{product.location}}</p>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col">
+            <img [src]="product.source" alt="product picture">
+        </div>
+        <div class="col">
+            <h1 class="fw-bold mb-5">{{product.name}}</h1>
+            <p><span class="fw-bold">Location</span>: {{product.location}}</p>
+            <p><span class="fw-bold">Condition</span>: Good</p>
+            <h2>P{{product.price}}.00</h2>
+            <div class="mt-5">
+                <h4 class="fw-bold">Description</h4>
+                <p>{{product.description}}</p>
+            </div>
+        </div>
+    </div>
+</div>
 
-<p><span class="fw-bold">Condition</span>: Good</p>
-<h3>P{{product.price}}.00</h3>

@@ -6,7 +6,7 @@
     "location": "SM Baguio",
     "condition": "Fair",
     "image": "/images/iphone-6s.jpg",
-    "source": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+    "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT__B7Zf-Bun90v-wnDJQMyfjQTzmtHcAviwg&s",
     "description": "Apple’s classic iPhone 6s with a sleek aluminum body, great for calls, social media, and light apps."
   },
   {
@@ -16,7 +16,7 @@
     "location": "SM San Fernando",
     "condition": "Good",
     "image": "/images/iphone-x.jpg",
-    "source": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+    "source": "https://www.apple.com/newsroom/images/product/iphone/standard/iphonex_front_back_glass_big.jpg.large.jpg",
     "description": "The iPhone X introduced Face ID and an edge-to-edge OLED display, still fast and reliable today."
   },
   {
@@ -26,7 +26,7 @@
     "location": "SM Baguio",
     "condition": "Like New",
     "image": "/images/iphone-xs.jpg",
-    "source": "https://images.unsplash.com/photo-1526045478516-99145907023c",
+    "source": "https://cdn.alloallo.media/catalog/product/apple/iphone/iphone-xr/iphone-xr-red.jpg",
     "description": "A powerful iPhone with dual cameras and a stunning OLED screen, perfect for multitasking and photos."
   },
   {
@@ -36,7 +36,7 @@
     "location": "SM Tarlac",
     "condition": "Fair",
     "image": "/images/iphone-xr.jpg",
-    "source": "https://images.unsplash.com/photo-1549921296-3a9971e509a4",
+    "source": "https://cdn.alloallo.media/catalog/product/apple/iphone/iphone-xr/iphone-xr-red.jpg",
     "description": "The iPhone XR offers a colorful design, Liquid Retina display, and strong battery life at a lower price."
   },
   {
@@ -46,7 +46,7 @@
     "location": "SM Rosales",
     "condition": "Good",
     "image": "/images/iphone-12-pro-max.jpg",
-    "source": "https://images.unsplash.com/photo-1603898037225-43ec35be6f8b",
+    "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe9MH5jyxMTfqZDHpnJo7Oak_oCfGmN35n3g&s",
     "description": "Apple’s flagship with triple cameras, 5G support, and ProMotion display for the ultimate experience."
   },
   {
@@ -56,7 +56,7 @@
     "location": "Ayala Malls Manila Bay",
     "condition": "Like New",
     "image": "/images/samsung-s20.jpg",
-    "source": "https://images.unsplash.com/photo-1580910051074-7dcd4b00a4a6",
+    "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSGJAa402h0K8l9zAmyIEr6JtfE7Nz2zDF2A&s",
     "description": "Samsung’s premium phone with a 120Hz display and impressive camera for smooth performance."
   },
   {
@@ -66,7 +66,7 @@
     "location": "SM Mall of Asia",
     "condition": "Fair",
     "image": "/images/samsung-note10.jpg",
-    "source": "https://images.unsplash.com/photo-1565058528609-77da8e96d028",
+    "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_enwVGSXzVNv6n9658bhOvolVUVYVALfyRQ&s",
     "description": "A productivity powerhouse with the S Pen and large AMOLED screen for work and entertainment."
   },
   {
@@ -76,7 +76,7 @@
     "location": "Robinsons Manila",
     "condition": "Good",
     "image": "/images/oppo-reno5.jpg",
-    "source": "https://images.unsplash.com/photo-1624705002806-1cb6f82a5f47",
+    "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp8vwPsb-E_Q9pNeSAZGidwGB59koQUo0_cA&s",
     "description": "A stylish midrange phone with strong cameras and smooth performance for social media and gaming."
   },
   {
@@ -86,7 +86,7 @@
     "location": "SM Clark",
     "condition": "Like New",
     "image": "/images/vivo-v21.jpg",
-    "source": "https://images.unsplash.com/photo-1624956041443-29e34d6431aa",
+    "source": "https://www.vivoglobal.ph/wp-content/uploads/2021/05/vivo-v21-pr.jpg",
     "description": "Slim and modern with excellent selfie capabilities, ideal for video calls and content creation."
   },
   {
@@ -96,7 +96,7 @@
     "location": "Greenhills Shopping Center",
     "condition": "Brand New",
     "image": "/images/huawei-p30pro.jpg",
-    "source": "https://images.unsplash.com/photo-1557401622-cfc2e0df8d6d",
+    "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHD4_EaHYldeRoe42bSRQGWUpBIYNiK9j4Uw&s",
     "description": "Famous for its zoom camera, the Huawei P30 Pro delivers stunning photography in all lighting."
   },
   {
@@ -106,7 +106,7 @@
     "location": "SM Megamall",
     "condition": "Fair",
     "image": "/images/macbook-air-2017.jpg",
-    "source": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+    "source": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111924_SP753macbook-air.jpeg",
     "description": "Lightweight and reliable, this MacBook Air is perfect for students and everyday productivity."
   },
   {
@@ -116,7 +116,7 @@
     "location": "Glorietta Makati",
     "condition": "Good",
     "image": "/images/macbook-pro-2019.jpg",
-    "source": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+    "source": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111945_sp799-mbp13touch-space.jpg",
     "description": "A professional-grade laptop with a Retina display and fast performance for creative work."
   },
   {
@@ -126,7 +126,7 @@
     "location": "SM North EDSA",
     "condition": "Like New",
     "image": "/images/acer-aspire5.jpg",
-    "source": "https://images.unsplash.com/photo-1587202372775-98924aaf12d4",
+    "source": "https://m.media-amazon.com/images/I/71sesDsw95L._AC_SL1500_.jpg",
     "description": "Affordable yet capable laptop with solid performance for office tasks and entertainment."
   },
   {
@@ -136,7 +136,7 @@
     "location": "Cyberzone Trinoma",
     "condition": "Brand New",
     "image": "/images/asus-rog-strix.jpg",
-    "source": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9",
+    "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfLNEEbYHQyXRS6z1sXU6RO_kWpOXs4QyQg&s",
     "description": "A gaming beast with RGB lighting, high refresh display, and dedicated graphics card."
   },
   {
@@ -146,7 +146,7 @@
     "location": "SM Cebu",
     "condition": "Good",
     "image": "/images/lenovo-ideapad3.jpg",
-    "source": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+    "source": "https://p3-ofp.static.pub/fes/cms/2022/12/28/cbsimp9kdhc8w1tw2t7pytz6exsvvv545729.jpg",
     "description": "A budget-friendly laptop with long battery life, suitable for students and home use."
   },
   {
@@ -156,7 +156,7 @@
     "location": "SM Bacolod",
     "condition": "Fair",
     "image": "/images/dell-inspiron15.jpg",
-    "source": "https://images.unsplash.com/photo-1593642532842-98d0fd5ebc1a",
+    "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8SeacEtfPTsnaB6gLRAp5gV69xCw0oHfiQ&s",
     "description": "A reliable 15-inch laptop with solid specs for everyday work and multimedia."
   },
   {
@@ -166,7 +166,7 @@
     "location": "Toy Kingdom SM Makati",
     "condition": "Like New",
     "image": "/images/ps4-slim.jpg",
-    "source": "https://images.unsplash.com/photo-1606813903164-1a2a30c88e66",
+    "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvpIZLdQ67DRVqyayCWsQMIC0g5avatTY4bg&s",
     "description": "A compact gaming console with a huge library of titles, perfect for casual and hardcore gamers."
   },
   {
@@ -176,7 +176,7 @@
     "location": "DataBlitz SM Aura",
     "condition": "Brand New",
     "image": "/images/ps5.jpg",
-    "source": "https://images.unsplash.com/photo-1606813903164-1a2a30c88e66",
+    "source": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21",
     "description": "Sony’s latest console with lightning-fast SSD and stunning graphics for next-gen gaming."
   },
   {
@@ -186,7 +186,7 @@
     "location": "GameOne Greenbelt",
     "condition": "Fair",
     "image": "/images/xbox-one-s.jpg",
-    "source": "https://images.unsplash.com/photo-1606144048854-d0f8d690fa68",
+    "source": "https://i5.walmartimages.com/seo/Restored-Microsoft-234-00001-Xbox-One-S-White-1TB-Video-Game-Console-Refurbished_40c15edf-0180-4c73-9627-25197830890c.9f6fca61c1ffac2219322aec8503b1ca.jpeg",
     "description": "Microsoft’s slim console with access to Xbox Game Pass for endless gaming choices."
   },
   {
@@ -196,9 +196,10 @@
     "location": "SM Fairview",
     "condition": "Good",
     "image": "/images/xbox-series-x.jpg",
-    "source": "https://images.unsplash.com/photo-1606813903164-1a2a30c88e66",
+    "source": "https://i5.walmartimages.com/seo/2020-New-Xbox-X-Gaming-Console-1TB-SSD-Black-X-Version-with-Disc-Drive_9f8c06f5-7953-426d-9b68-ab914839cef4.5f15be430800ce4d7c3bb5694d4ab798.jpeg",
     "description": "The most powerful Xbox yet, built for 4K gaming and smooth performance."
   },
+
   {
     "id": 21,
     "name": "Nintendo Switch",
@@ -206,7 +207,7 @@
     "location": "SM Mall of Asia",
     "condition": "Like New",
     "image": "/images/nintendo-switch.jpg",
-    "source": "https://images.unsplash.com/photo-1582653292389-e5f85c5c4d55",
+    "source": "https://urbangadgets.ph/wp-content/uploads/Nintendo-Switch-with-Neon-Blue-Neon-Red-Joy-Con-1.jpg",
     "description": "A versatile hybrid console that can switch between handheld and TV play with fun multiplayer games."
   },
   {
@@ -216,7 +217,7 @@
     "location": "Toy Kingdom Trinoma",
     "condition": "Brand New",
     "image": "/images/nintendo-switch-oled.jpg",
-    "source": "https://images.unsplash.com/photo-1633526544096-6c3f58e32e41",
+    "source": "https://urbangadgets.ph/wp-content/uploads/Nintendo-Switch-Oled-with-White-Joy-Con-1.jpg",
     "description": "The OLED model features a bigger, brighter screen and improved audio for an enhanced gaming experience."
   },
   {
@@ -226,7 +227,7 @@
     "location": "Power Mac Center Greenbelt",
     "condition": "Fair",
     "image": "/images/apple-watch-5.jpg",
-    "source": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b",
+    "source": "https://i5.walmartimages.com/seo/Pre-Owned-Apple-Watch-Series-5-44mm-GPS-Aluminum-Space-Gray-Black-Sport-Band-Smartwatch_53343419-e55c-43c6-b6b4-79b774c87229.bdf679b620a63c4ca87c508d617ea370.jpeg",
     "description": "Stay connected and track fitness with the Apple Watch Series 5, featuring an always-on display."
   },
   {
@@ -236,7 +237,7 @@
     "location": "SM Aura",
     "condition": "Good",
     "image": "/images/apple-watch-7.jpg",
-    "source": "https://images.unsplash.com/photo-1632052274032-0f0c0ef5a62a",
+    "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUJFrlbsTBdUgNMgwi4uEMjq6iir2ZRthXaw&s",
     "description": "The Apple Watch Series 7 has a larger screen and durable design, perfect for health tracking and daily use."
   },
   {
@@ -246,7 +247,7 @@
     "location": "SM Davao",
     "condition": "Like New",
     "image": "/images/galaxy-watch-3.jpg",
-    "source": "https://images.unsplash.com/photo-1598101514211-cf88a81e7d9a",
+    "source": "https://www.greentelcom.ph/wp-content/uploads/2024/03/website-template-8.png",
     "description": "A stylish smartwatch with health monitoring, fitness tracking, and Samsung’s rotating bezel design."
   },
   {
@@ -256,7 +257,7 @@
     "location": "SM Pampanga",
     "condition": "Brand New",
     "image": "/images/jbl-flip5.jpg",
-    "source": "https://images.unsplash.com/photo-1601933470058-f0b8a3b6c64e",
+    "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx2LbvqGiay6dAEMYRfi__38GapoLqVJkbdg&s",
     "description": "A portable Bluetooth speaker with punchy bass and waterproof design for music on the go."
   },
   {
@@ -266,7 +267,7 @@
     "location": "Robinsons Galleria",
     "condition": "Fair",
     "image": "/images/jbl-charge4.jpg",
-    "source": "https://images.unsplash.com/photo-1601933470151-f0b8a3b6c64e",
+    "source": "https://www.jbl.com.ph/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw62ce5fca/JBL_Charge4-Water_Splash_Black_Hero-1605x1605px.png?sw=537&sfrm=png",
     "description": "Loud and powerful with long battery life, the JBL Charge 4 can also charge your devices."
   },
   {
@@ -276,7 +277,7 @@
     "location": "SM Makati",
     "condition": "Good",
     "image": "/images/sony-wh1000xm4.jpg",
-    "source": "https://images.unsplash.com/photo-1590658268037-6f6b5a7f2c59",
+    "source": "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/1/7/172123_2022.jpg?auto=webp&format=pjpg&width=640",
     "description": "Premium noise-canceling headphones with crystal-clear sound and long-lasting comfort."
   },
   {
@@ -286,7 +287,7 @@
     "location": "SM Iloilo",
     "condition": "Brand New",
     "image": "/images/airpods-pro.jpg",
-    "source": "https://images.unsplash.com/photo-1574781991496-62c8f465fa27",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-2-hero-select-202409_FMT_WHH?wid=750&hei=556&fmt=jpeg&qlt=90&.v=1724041668836",
     "description": "Apple’s true wireless earbuds with active noise cancellation and immersive sound quality."
   },
   {
@@ -296,7 +297,7 @@
     "location": "Power Mac Center Glorietta",
     "condition": "Like New",
     "image": "/images/airpods-max.jpg",
-    "source": "https://images.unsplash.com/photo-1606813903164-1a2a30c88e66",
+    "source": "https://powermaccenter.com/cdn/shop/files/AirPods_Max_2024_Purple_PDP_Image_Position_1__en-US_edc7c65e-287c-4fbb-91da-c3e8b2153a06.jpg?v=1726225928",
     "description": "High-end Apple over-ear headphones with spatial audio and stunning design."
   },
   {
@@ -306,7 +307,7 @@
     "location": "Henry’s Camera Quezon City",
     "condition": "Good",
     "image": "/images/canon-90d.jpg",
-    "source": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+    "source": "https://urbangiz.com/cdn/shop/products/1.png?v=1677934415",
     "description": "A DSLR camera with high resolution and fast autofocus, perfect for photography enthusiasts."
   },
   {
@@ -316,7 +317,7 @@
     "location": "SM Cebu",
     "condition": "Fair",
     "image": "/images/canon-m50.jpg",
-    "source": "https://images.unsplash.com/photo-1504215680853-026ed2a45def",
+    "source": "https://urbangiz.com/cdn/shop/products/1_33daa636-9576-4c78-9a88-c45603f760c5.png?v=1678337750&width=1445",
     "description": "Compact and easy to use, the EOS M50 is a great starter camera for vloggers and travelers."
   },
   {
@@ -326,7 +327,7 @@
     "location": "SM North EDSA",
     "condition": "Like New",
     "image": "/images/nikon-d750.jpg",
-    "source": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+    "source": "https://i5.walmartimages.com/seo/Nikon-D750-Digital-camera-SLR-24-3-MP-Full-Frame-body-only-Wi-Fi_96d9398d-48da-40ac-8c68-dbb2c7acaf1c_1.67900cbd1f6cb026a088bc369000dff1.jpeg",
     "description": "A full-frame DSLR that delivers excellent image quality and reliable performance for professionals."
   },
   {
@@ -336,7 +337,7 @@
     "location": "SM Makati",
     "condition": "Good",
     "image": "/images/nikon-z50.jpg",
-    "source": "https://images.unsplash.com/photo-1504215680853-026ed2a45def",
+    "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Ux-ygqBKGvYbaMsw66H4DiRmWp0rlVh6gA&s",
     "description": "Nikon’s mirrorless camera designed for portability with 4K video recording and fast autofocus."
   },
   {
@@ -346,7 +347,7 @@
     "location": "SM Bacoor",
     "condition": "Fair",
     "image": "/images/gopro-hero9.jpg",
-    "source": "https://images.unsplash.com/photo-1601987077346-18aa36fce2d3",
+    "source": "https://static.gopro.com/aem/en/us/news/hero9-black-announce/images/GoPro_News_HERO9_Black_Mods.jpg",
     "description": "Rugged and waterproof, the Hero 9 captures action shots with 5K video and HyperSmooth stabilization."
   },
   {
@@ -356,7 +357,7 @@
     "location": "SM Manila",
     "condition": "Brand New",
     "image": "/images/gopro-hero10.jpg",
-    "source": "https://images.unsplash.com/photo-1601987077346-18aa36fce2d3",
+    "source": "https://f8photo.ph/cdn/shop/files/1_a5041af5-bae9-41d9-9d3a-1d1ee93a5d00.png?v=1723880794",
     "description": "The latest GoPro with improved video quality, faster performance, and advanced stabilization."
   },
   {
@@ -366,7 +367,7 @@
     "location": "SM Marikina",
     "condition": "Good",
     "image": "/images/dji-mavic-mini.jpg",
-    "source": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107",
+    "source": "https://images-na.ssl-images-amazon.com/images/I/612+vHhIRzL.jpg",
     "description": "A compact drone with excellent flight stability and camera quality, perfect for beginners."
   },
   {
@@ -376,7 +377,7 @@
     "location": "SM Taguig",
     "condition": "Like New",
     "image": "/images/dji-mavic-air2.jpg",
-    "source": "https://images.unsplash.com/photo-1508612761958-e931d843bddc",
+    "source": "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/cache/1801c418208f9607a371e61f8d9184d9/1/7/176771_2020_6.jpg",
     "description": "Powerful yet portable drone with 4K video and advanced flight modes for creative shots."
   },
   {
@@ -386,7 +387,7 @@
     "location": "SM Mall of Asia",
     "condition": "Fair",
     "image": "/images/dji-phantom4pro.jpg",
-    "source": "https://images.unsplash.com/photo-1508612761958-e931d843bddc",
+    "source": "https://dronesph.b-cdn.net/wp-content/uploads/2023/07/01-11.jpg",
     "description": "A professional-grade drone with high-quality imaging and advanced obstacle sensors."
   },
   {
@@ -396,7 +397,7 @@
     "location": "DataBlitz SM North EDSA",
     "condition": "Brand New",
     "image": "/images/razer-blade15.jpg",
-    "source": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9",
+    "source": "https://m.media-amazon.com/images/I/71kcJxMggRL._AC_SL1500_.jpg",
     "description": "A premium gaming laptop with slim design, RTX graphics, and powerful specs for heavy gaming."
   }
 ]
