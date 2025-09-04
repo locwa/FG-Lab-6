@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 6s",
+    "price": 4000,
+    "location": "SM Baguio",
+    "condition": "Fair",
+    "image": "/images/iphone-6s.jpg",
+    "source": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+    "description": "Apple’s classic iPhone 6s with a sleek aluminum body, great for calls, social media, and light apps."
+  },
+  {
+    "id": 2,
+    "name": "iPhone X",
+    "price": 6000,
+    "location": "SM San Fernando",
+    "condition": "Good",
+    "image": "/images/iphone-x.jpg",
+    "source": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+    "description": "The iPhone X introduced Face ID and an edge-to-edge OLED display, still fast and reliable today."
+  },
+  {
+    "id": 3,
+    "name": "iPhone Xs",
+    "price": 6500,
+    "location": "SM Baguio",
+    "condition": "Like New",
+    "image": "/images/iphone-xs.jpg",
+    "source": "https://images.unsplash.com/photo-1526045478516-99145907023c",
+    "description": "A powerful iPhone with dual cameras and a stunning OLED screen, perfect for multitasking and photos."
+  },
+  {
+    "id": 4,
+    "name": "iPhone XR",
+    "price": 6500,
+    "location": "SM Tarlac",
+    "condition": "Fair",
+    "image": "/images/iphone-xr.jpg",
+    "source": "https://images.unsplash.com/photo-1549921296-3a9971e509a4",
+    "description": "The iPhone XR offers a colorful design, Liquid Retina display, and strong battery life at a lower price."
+  },
+  {
+    "id": 5,
+    "name": "iPhone 12 Pro Max",
+    "price": 12000,
+    "location": "SM Rosales",
+    "condition": "Good",
+    "image": "/images/iphone-12-pro-max.jpg",
+    "source": "https://images.unsplash.com/photo-1603898037225-43ec35be6f8b",
+    "description": "Apple’s flagship with triple cameras, 5G support, and ProMotion display for the ultimate experience."
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy S20",
+    "price": 14500,
+    "location": "Ayala Malls Manila Bay",
+    "condition": "Like New",
+    "image": "/images/samsung-s20.jpg",
+    "source": "https://images.unsplash.com/photo-1580910051074-7dcd4b00a4a6",
+    "description": "Samsung’s premium phone with a 120Hz display and impressive camera for smooth performance."
+  },
+  {
+    "id": 7,
+    "name": "Samsung Galaxy Note 10",
+    "price": 12000,
+    "location": "SM Mall of Asia",
+    "condition": "Fair",
+    "image": "/images/samsung-note10.jpg",
+    "source": "https://images.unsplash.com/photo-1565058528609-77da8e96d028",
+    "description": "A productivity powerhouse with the S Pen and large AMOLED screen for work and entertainment."
+  },
+  {
+    "id": 8,
+    "name": "Oppo Reno 5",
+    "price": 9500,
+    "location": "Robinsons Manila",
+    "condition": "Good",
+    "image": "/images/oppo-reno5.jpg",
+    "source": "https://images.unsplash.com/photo-1624705002806-1cb6f82a5f47",
+    "description": "A stylish midrange phone with strong cameras and smooth performance for social media and gaming."
+  },
+  {
+    "id": 9,
+    "name": "Vivo V21",
+    "price": 10500,
+    "location": "SM Clark",
+    "condition": "Like New",
+    "image": "/images/vivo-v21.jpg",
+    "source": "https://images.unsplash.com/photo-1624956041443-29e34d6431aa",
+    "description": "Slim and modern with excellent selfie capabilities, ideal for video calls and content creation."
+  },
+  {
+    "id": 10,
+    "name": "Huawei P30 Pro",
+    "price": 11000,
+    "location": "Greenhills Shopping Center",
+    "condition": "Brand New",
+    "image": "/images/huawei-p30pro.jpg",
+    "source": "https://images.unsplash.com/photo-1557401622-cfc2e0df8d6d",
+    "description": "Famous for its zoom camera, the Huawei P30 Pro delivers stunning photography in all lighting."
+  },
+  {
+    "id": 11,
+    "name": "MacBook Air 2017",
+    "price": 18000,
+    "location": "SM Megamall",
+    "condition": "Fair",
+    "image": "/images/macbook-air-2017.jpg",
+    "source": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+    "description": "Lightweight and reliable, this MacBook Air is perfect for students and everyday productivity."
+  },
+  {
+    "id": 12,
+    "name": "MacBook Pro 2019",
+    "price": 45000,
+    "location": "Glorietta Makati",
+    "condition": "Good",
+    "image": "/images/macbook-pro-2019.jpg",
+    "source": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+    "description": "A professional-grade laptop with a Retina display and fast performance for creative work."
+  },
+  {
+    "id": 13,
+    "name": "Acer Aspire 5",
+    "price": 22000,
+    "location": "SM North EDSA",
+    "condition": "Like New",
+    "image": "/images/acer-aspire5.jpg",
+    "source": "https://images.unsplash.com/photo-1587202372775-98924aaf12d4",
+    "description": "Affordable yet capable laptop with solid performance for office tasks and entertainment."
+  },
+  {
+    "id": 14,
+    "name": "Asus ROG Strix",
+    "price": 55000,
+    "location": "Cyberzone Trinoma",
+    "condition": "Brand New",
+    "image": "/images/asus-rog-strix.jpg",
+    "source": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9",
+    "description": "A gaming beast with RGB lighting, high refresh display, and dedicated graphics card."
+  },
+  {
+    "id": 15,
+    "name": "Lenovo IdeaPad 3",
+    "price": 18000,
+    "location": "SM Cebu",
+    "condition": "Good",
+    "image": "/images/lenovo-ideapad3.jpg",
+    "source": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+    "description": "A budget-friendly laptop with long battery life, suitable for students and home use."
+  },
+  {
+    "id": 16,
+    "name": "Dell Inspiron 15",
+    "price": 25000,
+    "location": "SM Bacolod",
+    "condition": "Fair",
+    "image": "/images/dell-inspiron15.jpg",
+    "source": "https://images.unsplash.com/photo-1593642532842-98d0fd5ebc1a",
+    "description": "A reliable 15-inch laptop with solid specs for everyday work and multimedia."
+  },
+  {
+    "id": 17,
+    "name": "Sony PlayStation 4 Slim",
+    "price": 15000,
+    "location": "Toy Kingdom SM Makati",
+    "condition": "Like New",
+    "image": "/images/ps4-slim.jpg",
+    "source": "https://images.unsplash.com/photo-1606813903164-1a2a30c88e66",
+    "description": "A compact gaming console with a huge library of titles, perfect for casual and hardcore gamers."
+  },
+  {
+    "id": 18,
+    "name": "Sony PlayStation 5",
+    "price": 30000,
+    "location": "DataBlitz SM Aura",
+    "condition": "Brand New",
+    "image": "/images/ps5.jpg",
+    "source": "https://images.unsplash.com/photo-1606813903164-1a2a30c88e66",
+    "description": "Sony’s latest console with lightning-fast SSD and stunning graphics for next-gen gaming."
+  },
+  {
+    "id": 19,
+    "name": "Xbox One S",
+    "price": 12000,
+    "location": "GameOne Greenbelt",
+    "condition": "Fair",
+    "image": "/images/xbox-one-s.jpg",
+    "source": "https://images.unsplash.com/photo-1606144048854-d0f8d690fa68",
+    "description": "Microsoft’s slim console with access to Xbox Game Pass for endless gaming choices."
+  },
+  {
+    "id": 20,
+    "name": "Xbox Series X",
+    "price": 32000,
+    "location": "SM Fairview",
+    "condition": "Good",
+    "image": "/images/xbox-series-x.jpg",
+    "source": "https://images.unsplash.com/photo-1606813903164-1a2a30c88e66",
+    "description": "The most powerful Xbox yet, built for 4K gaming and smooth performance."
+  },
+  {
+    "id": 21,
+    "name": "Nintendo Switch",
+    "price": 15000,
+    "location": "SM Mall of Asia",
+    "condition": "Like New",
+    "image": "/images/nintendo-switch.jpg",
+    "source": "https://images.unsplash.com/photo-1582653292389-e5f85c5c4d55",
+    "description": "A versatile hybrid console that can switch between handheld and TV play with fun multiplayer games."
+  },
+  {
+    "id": 22,
+    "name": "Nintendo Switch OLED",
+    "price": 18000,
+    "location": "Toy Kingdom Trinoma",
+    "condition": "Brand New",
+    "image": "/images/nintendo-switch-oled.jpg",
+    "source": "https://images.unsplash.com/photo-1633526544096-6c3f58e32e41",
+    "description": "The OLED model features a bigger, brighter screen and improved audio for an enhanced gaming experience."
+  },
+  {
+    "id": 23,
+    "name": "Apple Watch Series 5",
+    "price": 12000,
+    "location": "Power Mac Center Greenbelt",
+    "condition": "Fair",
+    "image": "/images/apple-watch-5.jpg",
+    "source": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b",
+    "description": "Stay connected and track fitness with the Apple Watch Series 5, featuring an always-on display."
+  },
+  {
+    "id": 24,
+    "name": "Apple Watch Series 7",
+    "price": 20000,
+    "location": "SM Aura",
+    "condition": "Good",
+    "image": "/images/apple-watch-7.jpg",
+    "source": "https://images.unsplash.com/photo-1632052274032-0f0c0ef5a62a",
+    "description": "The Apple Watch Series 7 has a larger screen and durable design, perfect for health tracking and daily use."
+  },
+  {
+    "id": 25,
+    "name": "Samsung Galaxy Watch 3",
+    "price": 9000,
+    "location": "SM Davao",
+    "condition": "Like New",
+    "image": "/images/galaxy-watch-3.jpg",
+    "source": "https://images.unsplash.com/photo-1598101514211-cf88a81e7d9a",
+    "description": "A stylish smartwatch with health monitoring, fitness tracking, and Samsung’s rotating bezel design."
+  },
+  {
+    "id": 26,
+    "name": "JBL Flip 5",
+    "price": 4500,
+    "location": "SM Pampanga",
+    "condition": "Brand New",
+    "image": "/images/jbl-flip5.jpg",
+    "source": "https://images.unsplash.com/photo-1601933470058-f0b8a3b6c64e",
+    "description": "A portable Bluetooth speaker with punchy bass and waterproof design for music on the go."
+  },
+  {
+    "id": 27,
+    "name": "JBL Charge 4",
+    "price": 6500,
+    "location": "Robinsons Galleria",
+    "condition": "Fair",
+    "image": "/images/jbl-charge4.jpg",
+    "source": "https://images.unsplash.com/photo-1601933470151-f0b8a3b6c64e",
+    "description": "Loud and powerful with long battery life, the JBL Charge 4 can also charge your devices."
+  },
+  {
+    "id": 28,
+    "name": "Sony WH-1000XM4",
+    "price": 15000,
+    "location": "SM Makati",
+    "condition": "Good",
+    "image": "/images/sony-wh1000xm4.jpg",
+    "source": "https://images.unsplash.com/photo-1590658268037-6f6b5a7f2c59",
+    "description": "Premium noise-canceling headphones with crystal-clear sound and long-lasting comfort."
+  },
+  {
+    "id": 29,
+    "name": "AirPods Pro",
+    "price": 9500,
+    "location": "SM Iloilo",
+    "condition": "Brand New",
+    "image": "/images/airpods-pro.jpg",
+    "source": "https://images.unsplash.com/photo-1574781991496-62c8f465fa27",
+    "description": "Apple’s true wireless earbuds with active noise cancellation and immersive sound quality."
+  },
+  {
+    "id": 30,
+    "name": "AirPods Max",
+    "price": 28000,
+    "location": "Power Mac Center Glorietta",
+    "condition": "Like New",
+    "image": "/images/airpods-max.jpg",
+    "source": "https://images.unsplash.com/photo-1606813903164-1a2a30c88e66",
+    "description": "High-end Apple over-ear headphones with spatial audio and stunning design."
+  },
+  {
+    "id": 31,
+    "name": "Canon EOS 90D",
+    "price": 55000,
+    "location": "Henry’s Camera Quezon City",
+    "condition": "Good",
+    "image": "/images/canon-90d.jpg",
+    "source": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+    "description": "A DSLR camera with high resolution and fast autofocus, perfect for photography enthusiasts."
+  },
+  {
+    "id": 32,
+    "name": "Canon EOS M50",
+    "price": 32000,
+    "location": "SM Cebu",
+    "condition": "Fair",
+    "image": "/images/canon-m50.jpg",
+    "source": "https://images.unsplash.com/photo-1504215680853-026ed2a45def",
+    "description": "Compact and easy to use, the EOS M50 is a great starter camera for vloggers and travelers."
+  },
+  {
+    "id": 33,
+    "name": "Nikon D750",
+    "price": 48000,
+    "location": "SM North EDSA",
+    "condition": "Like New",
+    "image": "/images/nikon-d750.jpg",
+    "source": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+    "description": "A full-frame DSLR that delivers excellent image quality and reliable performance for professionals."
+  },
+  {
+    "id": 34,
+    "name": "Nikon Z50",
+    "price": 40000,
+    "location": "SM Makati",
+    "condition": "Good",
+    "image": "/images/nikon-z50.jpg",
+    "source": "https://images.unsplash.com/photo-1504215680853-026ed2a45def",
+    "description": "Nikon’s mirrorless camera designed for portability with 4K video recording and fast autofocus."
+  },
+  {
+    "id": 35,
+    "name": "GoPro Hero 9",
+    "price": 22000,
+    "location": "SM Bacoor",
+    "condition": "Fair",
+    "image": "/images/gopro-hero9.jpg",
+    "source": "https://images.unsplash.com/photo-1601987077346-18aa36fce2d3",
+    "description": "Rugged and waterproof, the Hero 9 captures action shots with 5K video and HyperSmooth stabilization."
+  },
+  {
+    "id": 36,
+    "name": "GoPro Hero 10",
+    "price": 26000,
+    "location": "SM Manila",
+    "condition": "Brand New",
+    "image": "/images/gopro-hero10.jpg",
+    "source": "https://images.unsplash.com/photo-1601987077346-18aa36fce2d3",
+    "description": "The latest GoPro with improved video quality, faster performance, and advanced stabilization."
+  },
+  {
+    "id": 37,
+    "name": "DJI Mavic Mini",
+    "price": 22000,
+    "location": "SM Marikina",
+    "condition": "Good",
+    "image": "/images/dji-mavic-mini.jpg",
+    "source": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107",
+    "description": "A compact drone with excellent flight stability and camera quality, perfect for beginners."
+  },
+  {
+    "id": 38,
+    "name": "DJI Mavic Air 2",
+    "price": 38000,
+    "location": "SM Taguig",
+    "condition": "Like New",
+    "image": "/images/dji-mavic-air2.jpg",
+    "source": "https://images.unsplash.com/photo-1508612761958-e931d843bddc",
+    "description": "Powerful yet portable drone with 4K video and advanced flight modes for creative shots."
+  },
+  {
+    "id": 39,
+    "name": "DJI Phantom 4 Pro",
+    "price": 65000,
+    "location": "SM Mall of Asia",
+    "condition": "Fair",
+    "image": "/images/dji-phantom4pro.jpg",
+    "source": "https://images.unsplash.com/photo-1508612761958-e931d843bddc",
+    "description": "A professional-grade drone with high-quality imaging and advanced obstacle sensors."
+  },
+  {
+    "id": 40,
+    "name": "Razer Blade 15",
+    "price": 95000,
+    "location": "DataBlitz SM North EDSA",
+    "condition": "Brand New",
+    "image": "/images/razer-blade15.jpg",
+    "source": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9",
+    "description": "A premium gaming laptop with slim design, RTX graphics, and powerful specs for heavy gaming."
+  }
+]
