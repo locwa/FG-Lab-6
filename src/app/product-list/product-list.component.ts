@@ -1,7 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterModule } from '@angular/router'
 import { CommonModule } from '@angular/common'
-import '../../../products.json'
 
 import productsData from '../../../products.json';
 
