@@ -8,11 +8,15 @@
         <tbody>
             <tr>
                 <th class="fs-4">Product</th>
+                <th class="fs-4">Location</th>
+                <th class="fs-4">Condition</th>
                 <th class="fs-4">Price</th>
                 <th class="fs-4">&nbsp;</th>
             </tr>
             <tr *ngFor = "let product of products">
                 <td class="py-3">{{product.name}}</td>
+                <td class="py-3">{{product.location}}</td>
+                <td class="py-3">{{product.condition}}</td>
                 <td class="py-3">P{{product.price}}</td>
                 <td class="py-3 text-end">
                     <a [routerLink]="['/product-details', product.id]" ><button class="btn btn-dark">View Details</button></a>
